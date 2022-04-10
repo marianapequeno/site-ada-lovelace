@@ -1,5 +1,5 @@
 # Site História de Ada Lovelace - A primeira programadora
-Projeto feito na turma 9 do curso Eu Progr{amo} da Programaria
+Projeto feito na turma 9 do curso Eu Progr{amo} da Programaria.
 
 **Conteúdo abordado no curso:**
 
