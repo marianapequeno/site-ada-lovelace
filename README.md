@@ -31,4 +31,3 @@ Projeto feito na turma 9 do curso Eu Progr{amo} da Programaria
 * Mapa de Possibilidades: o que faço agora?
 * Materiais para ir além: continue seus estudos!
 
-![image](https://user-images.githubusercontent.com/75488872/162596093-761d0d3a-8134-45cc-ba6c-d807b844cbc7.png)
