@@ -1,5 +1,5 @@
 # Site História de Ada Lovelace - A primeira programadora
-Projeto feito na turma 9 do curso Eu Progr{amo} da @programaria
+Projeto feito na turma 9 do curso Eu Progr{amo} da Programaria
 
 *O Curso Online Eu ProgrAmo possui uma carga horária de 16 horas/aulas*.
 
