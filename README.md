@@ -6,7 +6,7 @@ Projeto feito na turma 9 do curso Eu Progr{amo} da Programaria.
 **Conceitos Básicos de JavaScript**
 * Sintaxe do JavaScript
 * Inputs e Formulários
-* Lógica de Interação
+* Lógica de Interação (Eventos)
 * Condições
 * Funções no JavaScript
 
@@ -24,10 +24,3 @@ Projeto feito na turma 9 do curso Eu Progr{amo} da Programaria.
 * Imagens e Acessibilidade
 * Listas
 * Adicionando Links
-
-**Dicas de Carreira em Tecnologia**
-* Dia a dia da pessoa Front End
-* Carreiras no Front End
-* Mapa de Possibilidades: o que faço agora?
-* Materiais para ir além: continue seus estudos!
-
