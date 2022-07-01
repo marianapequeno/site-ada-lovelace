@@ -1,6 +1,8 @@
 # Site História de Ada Lovelace - A primeira programadora
 Projeto feito na turma 9 do curso Eu Progr{amo} da Programaria.
 
+Link :point_right: https://historiaadalovelace.netlify.app/
+
 ### Conteúdo abordado no curso: 
 
 **Conceitos Básicos de JavaScript**
